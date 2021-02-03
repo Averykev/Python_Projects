@@ -1,2 +1,2 @@
 # Python_Projects
-A sample of project using Python.
+A sample of projects using Python.
