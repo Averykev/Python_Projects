@@ -5,6 +5,6 @@ A sample of projects using Python.
 
 2.)  BLACKJACK - Card game simulation
 
-2.)  WAR! - Card game simulation
+3.)  WAR! - Card game simulation
 
-3.)  Play Tic Tac Toe!
+4.)  Play Tic Tac Toe!
